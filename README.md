@@ -1,9 +1,6 @@
 # time-visualization
 
-Status: Charging...
-
 > Develop the app for window such that visualizing the flow of time using time library.
-> 
 
 
 # Final result

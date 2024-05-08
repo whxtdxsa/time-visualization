@@ -1,4 +1,4 @@
-# time-visualization
+# Time Visualization
 
 > Develop the app for window such that visualizing the flow of time using time library.
 
